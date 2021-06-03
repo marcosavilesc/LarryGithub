@@ -2,4 +2,6 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-**Marcos Avilés**, Git lover
+
+**Marcos Avilés**, Git and Larry Plotter Lover
+
